@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kostakhrizman.prices",
+    "sha256_cert_fingerprints": ["F2:7D:70:93:77:53:20:3A:71:0A:27:64:65:E0:64:53:4E:F5:6D:F6:35:97:3F:34:6B:89:5D:AD:F5:1D:24:1F"]
+  }
+}]
